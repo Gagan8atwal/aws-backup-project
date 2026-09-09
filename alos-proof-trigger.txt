@@ -1,0 +1,1 @@
+Trigger the governed SmolVLM proof after workflow registration on the default branch.
